@@ -8,200 +8,41 @@ $("#elastic_grid_demo").elastic_grid({
 	'items' :
 		[
 			{
-			'title' : 'Gallery 1',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
+			'title' : 'Screenshots',
+			
+			'thumbnail' : ['img/portfolio/small/1s.jpg', 'img/portfolio/small/2s.jpg', 'img/portfolio/small/3s.jpg'],
+			'large' : ['img/portfolio/large/1s.jpg', 'img/portfolio/large/2s.jpg', 'img/portfolio/large/3s.jpg'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			
 			],
 			'tags'  : ['All']
 			},
 
 			{
-			'title' : 'Swiss chard pumpkin',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
+			'title' : 'Artwork',
+			
+			'thumbnail' : ['img/portfolio/small/1a.jpg', 'img/portfolio/small/2a.jpg', 'img/portfolio/small/3a.jpg'],
+			'large' : ['img/portfolio/large/1a.jpg', 'img/portfolio/large/2a.jpg', 'img/portfolio/large/3a.jpg'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			
 			],
-			'tags'  : ['Photoshop','All']
+			'tags'  : ['All']
 			},
 
 			{
-			'title' : 'Spinach winter purslane',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
+			'title' : 'Wallpapers',
+			
+			'thumbnail' : ['img/portfolio/small/1w.jpg', 'img/portfolio/small/2w.jpg', 'img/portfolio/small/3w.jpg'],
+			'large' : ['img/portfolio/large/1w.jpg', 'img/portfolio/large/2w.jpg', 'img/portfolio/large/3w.jpg'],
 			'button_list'   :
 			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
+			
 			],
-			'tags'  : ['Design', 'All']
+			'tags'  : ['All']
 			},
-
-			{
-			'title' : 'Aubergine napa cabbage',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Jquery','All']
-			},
-
-			{
-			'title' : 'Swiss chard pumpkin',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Wordpress','All']
-			},
-
-			{
-			'title' : 'Spinach winter purslane',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Photoshop']
-			},
-
-			{
-			'title' : 'Spinach winter purslane',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Design']
-			},
-
-			{
-			'title' : 'Azuki bean',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Jquery']
-			},
-
-			{
-			'title' : 'Swiss chard pumpkin',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Wordpress']
-			},
-
-			{
-			'title' : 'Winter purslane',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Design']
-			},
-
-			{
-			'title' : 'Spinach winter purslane',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Photoshop']
-			},
-
-			{
-			'title' : 'Spinach winter purslane',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Jquery', 'Wordpress']
-			},
-
-			{
-			'title' : 'Azuki bean',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Wordpress']
-			},
-
-			{
-			'title' : 'Swiss chard pumpkin',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Photoshop']
-			},
-
-			{
-			'title' : 'Spinach winter purslane',
-			'description'   : 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : ['img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg', 'img/portfolio/large/1.jpg'],
-			'button_list'   :
-			[
-			{ 'title':'Demo', 'url' : 'http://#' },
-			{ 'title':'Download', 'url':'http://#'}
-			],
-			'tags'  : ['Jquery', 'Design']
-			}
-	 
+			
 		]
 	});
 });
